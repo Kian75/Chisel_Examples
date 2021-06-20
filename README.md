@@ -47,4 +47,4 @@ https://github.com/schoeberl/chisel-examples.git
 
 https://github.com/ucb-bar/riscv-mini.git
 
-Lots of things I have learned about Chisel comes from abow repsitories
+Lots of things I have learned about Chisel comes from above repsitories
