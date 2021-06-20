@@ -38,6 +38,6 @@ class Alu extends Module {
 // Generate the Verilog code
 object AluMain extends App {
   println("Generating the ALU hardware")
-  (new chisel3.stage.ChiselStage).emitVerilog(new AluTop(), Array("--target-dir", "generated"))
+  (new chisel3.stage.ChiselStage).emitVerilog(new Alu(), Array("--target-dir", "generated"))
 
 }
