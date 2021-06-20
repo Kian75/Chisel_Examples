@@ -18,22 +18,22 @@ mill is another Scala/Java build tool without obscure DSL like SBT. You can down
 #### Clone your repository
 
 ```sh
-git clone https://github.com/Kian75/Chisel_Examples.git
-cd Chisel_Examples
+$ git clone https://github.com/Kian75/Chisel_Examples.git
+$ cd Chisel_Examples
 ```
 ### You should now have a working Chisel3 project.
 
 You can run the main code with:
 ```sh
-sbt run
+$ sbt run
 ```
 or:
 ```sh
-make
+$ make
 ```
 You can run the included test with:
 ```sh
-sbt test
+$ sbt test
 ```
 
 You should see a whole bunch of output that ends with something like the following lines
@@ -42,3 +42,6 @@ You should see a whole bunch of output that ends with something like the followi
 [info] All tests passed.
 [success] Total time: 5 s, completed Dec 16, 2020 12:18:44 PM
 ```
+### For more information I would like to mention and thank following repositories:
+[here](https://github.com/schoeberl/chisel-examples.git)
+[here](https://github.com/ucb-bar/riscv-mini.git)
