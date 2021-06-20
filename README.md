@@ -1,5 +1,5 @@
-Adopted from Chisel Project Template
-====================================
+Temporary Repo for Chisel practice (Adopted from Chisel Project Template)
+=========================================================================
 
 
 ### Dependencies
