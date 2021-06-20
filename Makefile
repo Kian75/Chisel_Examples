@@ -5,4 +5,4 @@ SBT = sbt
 # Generate Verilog code
 
 alu:
-	$(SBT) "runMain AluMain"
+	$(SBT) "runMain gcd.AluMain"
