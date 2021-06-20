@@ -42,7 +42,9 @@ You should see a whole bunch of output that ends with something like the followi
 [info] All tests passed.
 [success] Total time: 5 s, completed Dec 16, 2020 12:18:44 PM
 ```
-### For more information I would like to mention and thank following repositories:
+### I would like to mention following repositories:
 https://github.com/schoeberl/chisel-examples.git
 
 https://github.com/ucb-bar/riscv-mini.git
+
+Lots of things I have learned about Chisel comes from abow repsitories
