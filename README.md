@@ -23,6 +23,14 @@ cd Chisel_Examples
 ```
 ### You should now have a working Chisel3 project.
 
+You can run the main code with:
+```sh
+sbt run
+```
+or:
+```sh
+make
+```
 You can run the included test with:
 ```sh
 sbt test
