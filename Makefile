@@ -10,7 +10,7 @@ SBT = sbt
 # Generate Verilog code
 
 alu:
-	$(SBT) "runMain Simple.AluMain"
+	$(SBT) "runMain simple.AluMain"
 	
 	
 # Generate the C++ simulation and run the tests
