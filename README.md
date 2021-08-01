@@ -42,6 +42,12 @@ You should see a whole bunch of output that ends with something like the followi
 [info] All tests passed.
 [success] Total time: 5 s, completed Dec 16, 2020 12:18:44 PM
 ```
+### Adding your own code:
+
+If you want to write your own code and extend this repo, you can go to src/main/scala/simple and add your code.
+If you want to add your test code you can go to src/test/scala/simple and add your code.
+Then you can edit the makefile. The procedure is very easy and can be done like the simple ALU code that I have in this repo.
+
 ### I would like to mention following repositories:
 https://github.com/schoeberl/chisel-examples.git
 
